@@ -4,16 +4,21 @@ By:V.S.Sai Rashwant 20BCE1332
 Login Page:
 1. Login screen:
 
-
+```reactnative
  ![](myAndroidProject/assign/Login1.png)
+```
 
 
 
 2. Typing Username:
 In CustomText:	
+```reactnative
  <TextInput secureTextEntry={props.security} placeholder={props.placeholder} style={styles.input}/>
+```
 In main:
+```reactnative
  <SaiRashwant placeholder="Username" security={false}/>
+```
  
  
  
@@ -26,9 +31,13 @@ In main:
 
 3. Typing Password: 
 In CustomText:	
+```reactnative
  <TextInput secureTextEntry={props.security} placeholder={props.placeholder} style={styles.input}/>
+```
 In main:
+```reactnative
  <SaiRashwant placeholder="Password" security={true}/>
+```
  
  
  
