@@ -1,6 +1,4 @@
 # Androidclub-Assignment-1
-
-# Androidclub-Assignment-1
 By:V.S.Sai Rashwant 20BCE1332
 
 Login Page:
