@@ -9,18 +9,18 @@ Login Page:
 
 2. Typing Username:
 In CustomText:	
-<TextInput secureTextEntry={props.security} placeholder={props.placeholder} style={styles.input}/>
+ <TextInput secureTextEntry={props.security} placeholder={props.placeholder} style={styles.input}/>
 In main:
-<SaiRashwant placeholder="Username" security={false}/>
+ <SaiRashwant placeholder="Username" security={false}/>
  
 
 
 
-3. Typing Password:
+3. Typing Password: 
 In CustomText:	
-<TextInput secureTextEntry={props.security} placeholder={props.placeholder} style={styles.input}/>
+ <TextInput secureTextEntry={props.security} placeholder={props.placeholder} style={styles.input}/>
 In main:
-<SaiRashwant placeholder="Password" security={true}/>
+ <SaiRashwant placeholder="Password" security={true}/>
 
  
 
