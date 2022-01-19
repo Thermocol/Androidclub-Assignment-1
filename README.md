@@ -13,6 +13,7 @@ In CustomText:
 In main:
  <SaiRashwant placeholder="Username" security={false}/>
  
+  ![](myAndroidProject/assign/Login2.png)
 
 
 
@@ -21,11 +22,11 @@ In CustomText:
  <TextInput secureTextEntry={props.security} placeholder={props.placeholder} style={styles.input}/>
 In main:
  <SaiRashwant placeholder="Password" security={true}/>
-
+  ![](myAndroidProject/assign/Login3.png)
  
 
 4. Final Output
- 
+   ![](myAndroidProject/assign/Login4.png)
 
 
 
